@@ -1,4 +1,4 @@
 dash
 pandas
-mitohseet_helper_enterprise
+mitosheet_helper_enterprise
 mitosheet
